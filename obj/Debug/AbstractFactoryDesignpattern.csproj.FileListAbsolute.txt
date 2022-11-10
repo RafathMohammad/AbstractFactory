@@ -10,3 +10,6 @@ C:\Visual Studio 2015\Projects\AbstractFactoryDesignpattern\AbstractFactoryDesig
 C:\Visual Studio 2015\Projects\AbstractFactoryDesignpattern\AbstractFactoryDesignpattern\bin\Debug\AbstractFactoryDesignpattern.exe
 C:\Visual Studio 2015\Projects\AbstractFactoryDesignpattern\AbstractFactoryDesignpattern\bin\Debug\AbstractFactoryDesignpattern.pdb
 C:\Visual Studio 2015\Projects\AbstractFactoryDesignpattern\AbstractFactoryDesignpattern\obj\Debug\AbstractFactoryDesignpattern.csprojResolveAssemblyReference.cache
+C:\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactoryDesignpattern.exe.config
+C:\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactoryDesignpattern.exe
+C:\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactoryDesignpattern.pdb
